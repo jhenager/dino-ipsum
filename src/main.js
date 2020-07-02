@@ -10,6 +10,7 @@ $(document).ready(function () {
   $('#submit-btn').click(function () {
       const firstName = $('#firstName').val();
       const lastName = $('#lastName').val();
+      $(".header").hide();
 
       (async () => {
         let dino = new dinoText();

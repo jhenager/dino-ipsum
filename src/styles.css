@@ -3,6 +3,10 @@ img {
   height:auto;
 }
 
+.container {
+  text-align: center;
+}
+
 .header {
   padding-top: 50px;
   text-align: center;
