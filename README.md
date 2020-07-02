@@ -1,12 +1,12 @@
 # _Nameasaurs_
 
-#### _SHORT DESCR_
+#### _Find out your dinosaur middle name!_
 
 #### By _**James Henager & Christine Augustine**_
 
 ## Description
 
-_This application will_
+_This application will assign you a special dinosaur middle name generated with the Dinosaur Ipsum API, as well as a dinosaur themed gif from the Giphy API._
 
 ### Specs
 | Spec | Input | Output |
@@ -17,15 +17,13 @@ _This application will_
 
 ## Setup/Installation Requirements
 
-* _Visit the following link: _
+* _Visit the following link: https://github.com/jhenager/dino-ipsum.git_
 * _Clone the repository to your desired directory._
-* _OR_
-* _Visit here: _
-
 
 ## Known Bugs
 
-_ _
+_At times a gif will appear and then change._
+
 ## Support and contact details
 
 _Contact us at blacchoy@gmail.com or jameschenager@gmail.com_
