@@ -1,5 +1,5 @@
 export class dinoText {
-  async getName (name) {
+  async getName () {
     try {
       let response = await fetch (`http://dinoipsum.herokuapp.com/api/?format=json`);
       let jsonifiedResponse;

@@ -1,1 +1,26 @@
-/* Some CSS! */
+img {
+  width:500px;
+  height:auto;
+}
+
+.header {
+  padding-top: 50px;
+  text-align: center;
+}
+
+.dinoName {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Calistoga', cursive;
+  font-size: 90px;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+#output {
+  font-size: 40px;
+}
